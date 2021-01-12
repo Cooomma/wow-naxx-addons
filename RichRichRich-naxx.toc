@@ -1,0 +1,6 @@
+## Interface: 11304
+
+## Title: RichNaXX |cff8080ff1.0|r
+## Notes: A framework for chat ehancement modules.
+## Version: 0.0.1
+## Author: Cooomma
